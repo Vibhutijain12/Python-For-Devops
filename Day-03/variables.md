@@ -49,6 +49,7 @@ print(y)  # This will print 20
 ####  Variable Lifetime: 
 The lifetime of a variable is determined by when it is created and when it is destroyed or goes out of scope. Local variables exist only while the function is being executed, while global variables exist for the entire duration of the program.
 
+#### Nmaing convention of Variables: 
 
 Example:
 ```python  
@@ -63,3 +64,35 @@ class = "Python"  # Not recommended
 a = 10  # Less clear
 num_of_students = 10  # More descriptive
 ```
+
+#### Dynamically Typed vs Statically Typed Languages
+
+#### Dynamically Typed Language (Python)
+
+In Python:
+* You don’t need to declare the data type
+* Type is decided at runtime
+  
+```python
+x = 10      # int
+x = "dev"   # string
+```
+✔ Python is a dynamically typed language
+
+#### Statically Typed Language (Example: Java, C++)
+
+In statically typed languages:
+* You must declare the data type explicitly
+* Type checking happens at compile time
+  
+```python
+int x = 10;
+```
+#### Why Dynamic Typing is Useful in DevOps?
+
+* Faster scripting
+* Less boilerplate code
+* Easy automation
+* Quick prototyping
+
+
