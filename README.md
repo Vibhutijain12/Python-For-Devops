@@ -54,3 +54,10 @@ Example: Automating a log file analysis with a loop to find errors.
 * Sets and set operations.
 * Practice exercises and examples:
 Example: Managing a dictionary of server configurations and optimizing retrieval.
+
+#### Day 11: Python Tasks for DevOps (Part 1) - File Operations (Project-2)
+* Introduction to File Operations.
+* Automating File operations.
+* Practice exercises and examples:
+Example: Update a server resources in the server.conf file up on external notification.
+Example: write a python script which reads an APIs and parse a JSON and stores the output in json file.
