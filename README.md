@@ -49,7 +49,7 @@ Example: Writing a script to manage a list of user accounts in a DevOps environm
 * Practice exercises and examples:
 Example: Automating a log file analysis with a loop to find errors.
 
-#### Day 11: Working with Dictionaries and Sets (Project-1)
+#### Day 10: Working with Dictionaries and Sets (Project-1)
 * Dictionaries and key-value pairs.
 * Sets and set operations.
 * Practice exercises and examples:
