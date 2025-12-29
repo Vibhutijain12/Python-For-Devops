@@ -59,5 +59,6 @@ Example: Managing a dictionary of server configurations and optimizing retrieval
 * Introduction to File Operations.
 * Automating File operations.
 * Practice exercises and examples:
-Example: Update a server resources in the server.conf file up on external notification.
-Example: write a python script which reads an APIs and parse a JSON and stores the output in json file.
+  
+1. Example: Update a server resources in the server.conf file up on external notification.
+2. Example: write a python script which reads an APIs and parse a JSON and stores the output in json file.
