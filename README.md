@@ -71,3 +71,5 @@ Example: Managing a dictionary of server configurations and optimizing retrieval
 * How to handle API calls and deploy your API to a server.
 Practice exercises and examples:
 Example: Write a Python API which listens on a github comment and creates a ticket in JIRA.
+
+#### Practice Questions
